@@ -13,16 +13,15 @@
 <div data-role="page">
 
   <div data-role="header">
-    <h1>欢迎访问GEORGE PAN的主页！！！</h1>
+    <h1>欢迎访问套马的汉子的主页！！！</h1>
   </div>
 
   <div data-role="content">
-    <p>我是一名移动开发者！</p>
-    <p>哈哈哈哈哈哈哈哈哈哈哈哈啊哈哈啊哈哈！！！！</p>
+    <p><font size="36" color="red">哈哈哈哈哈哈哈哈哈哈哈哈啊哈哈啊哈哈！！！！</font></p>
   </div>
 
   <div data-role="footer">
-    <h1>Copyright©2016 GEORGE PAN All Rights Reserved</h1>
+    <h1>Copyright©2016 套马的汉子 All Rights Reserved</h1>
   </div>
 
 </div>
