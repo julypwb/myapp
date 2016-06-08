@@ -18,6 +18,7 @@
 
   <div data-role="content">
     <p><font size="36" color="red">哈哈哈哈哈哈哈哈哈哈哈哈啊哈哈啊哈哈！！！！</font></p>
+    <p>E-mail:<a href="mailto:julypwb@gmail.com">julypwb@hotmail.com</a></p>
   </div>
 
   <div data-role="footer">
