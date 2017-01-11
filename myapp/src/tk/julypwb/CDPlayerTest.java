@@ -15,5 +15,5 @@ public class CDPlayerTest {
 	@Test
 	public void cdShouldNotBeNull(){
 		assertNotNull(cd);
-	}//`2`212
+	}
 }
